@@ -1,0 +1,53 @@
+    1  python 
+    2  pwd
+    3  cd /c/gitdir/
+    4  ls
+    5  git checkout https://github.com/zzhibingren/demo.git
+    6  git clone https://github.com/zzhibingren/demo.git
+    7  git clone https://github.com/zzhibingren/demo.git
+    8  df .
+    9  ls
+   10  cd demo/
+   11  ls
+   12  cd jupyter_pandas/
+   13  ls
+   14  ls
+   15  pip install jupyter
+   16  git status
+   17  git log
+   18  git log
+   19  cd /c/gitdir/demo/jupyter_pandas
+   20  python
+   21  cd /c/gitdir/demo/jupyter_pandas
+   22  python
+   23  python --version
+   24  python
+   25  df 
+   26  history
+   27  cd /c/voiceAI/
+   28  python
+   29  pip list|grep torch
+   30  pip install toarchvision=0.12.0+cpu
+   31  pip install toarchvision==0.12.0+cpu
+   32  pip install torchvision==0.12.0+cpu
+   33  pip install torchvision==0.12.0
+   34  pip list|grep torch
+   35  pip list|grep torch
+   36  ls
+   37  cd /c/
+   38  ls
+   39  cd gitdir/
+   40  ls
+   41  cd pytorch-dlwpt-code/
+   42  git status
+   43  du -sh .
+   44  du -sh ./*
+   45  du -sh ./*|grep M
+   46  ls
+   47  git add ./jimmy_pytorch_convertible_bond_value_analysis.ipynb 
+   48  git add jimmy_pytorch_stock.ipynb 
+   49  git commit -m 'add akshare convertible bond with mysql'
+   50  git push
+   51  git status
+   52  cat untitled.txt 
+   53  history>his_git
